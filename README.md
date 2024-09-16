@@ -7,6 +7,9 @@
 - ⚡ Fun fact: The owner wanted the mission to be Inspiring Like Kids Optimism (from ILKO, his name)
 
 [Ilirium Website](https://ilirium.co.uk)
+[Twitter/X](https://twitter.com/iliriumuk)
+[Instagram](https://instagram.com/iliriumuk)
+[Facebook](https://www.facebook.com/IliriumUK/)
 
 <!---
 iliriumltd/iliriumltd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
