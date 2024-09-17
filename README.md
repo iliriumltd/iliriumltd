@@ -4,7 +4,7 @@
 - 💞️ To transform the state of technology worldwide
 - 📫 One product at a time
 - 😄 That is helping millions
-- ⚡ Fun fact: The owner wanted the mission to be Inspiring Like Kids Optimism (from ILKO, his name)
+- ⚡ Fun fact: The owner wanted the mission to be Inspiring Like Kids Optimism (from ILKO)
 
 [Ilirium Website](https://ilirium.co.uk)</br>
 [Twitter/X](https://twitter.com/iliriumuk)</br>
