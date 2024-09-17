@@ -8,8 +8,9 @@
 
 [Ilirium Website](https://ilirium.co.uk)</br>
 [Twitter/X](https://twitter.com/iliriumuk)</br>
-[Instagram](https://instagram.com/iliriumuk)</br>
-[Facebook](https://www.facebook.com/IliriumUK/)
+[LinkedIn](https://www.linkedin.com/groups/12962360/)</br>
+[Facebook](https://www.facebook.com/IliriumUK/)</br>
+[Instagram](https://instagram.com/iliriumuk)
 
 <!---
 iliriumltd/iliriumltd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
