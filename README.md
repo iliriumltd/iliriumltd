@@ -1,5 +1,5 @@
 - 👋 Hi, this is Ilirium Ltd
-- 👀 We're Software Company based in UK
+- 👀 We're a software company based in UK
 - 🌱 We develop software products
 - 💞️ To transform the state of technology worldwide
 - 📫 One product at a time
